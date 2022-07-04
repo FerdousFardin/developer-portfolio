@@ -43,9 +43,9 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
-/* h1{
-    font-weight: 900;
-} */
+h1{
+    font-weight: bolder;
+}
 .shadow{
     box-shadow: 10px 15px 40px grey;
     padding-left: 30px;
@@ -69,4 +69,12 @@ h1{
 .experience-area h1{
     font-weight: 700;
     font-size: 40px;
+}
+footer p{
+    /* display: inline-block; */
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+} .mid-section p{
+    margin-right: 50px;
 }
